@@ -1,2 +1,3 @@
-# tinkoff__investments_rofl
+# Tinkoff Investment Rofls
+
 my ML investment rofls
